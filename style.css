@@ -1,0 +1,26 @@
+body{
+    background-color: cyan;
+}
+
+#tamanho{
+    width: 200px;
+}
+
+
+h1{
+
+    text-align: left;
+}
+#robo {
+    border: 5px solid white;
+    background-color: darkgrey;
+    display: flex;
+}
+
+#texto1{
+     padding: 10px;
+    
+   
+    
+   
+}
