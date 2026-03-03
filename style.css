@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: cyan;
 }
@@ -24,3 +25,9 @@ h1{
     
    
 }
+=======
+#nav {
+    height: 20px;
+    margin: 0 5px;
+}
+>>>>>>> b89221ff8880998711259f7ed0bbb43065082765
