@@ -100,6 +100,12 @@ border: 5px solid white;
     display: flex;
 }
 
+.botaoruim{
+
+    display: flex;
+    flex-direction: column;
+}
+
 /*MA-MARCOS*/
 
 .nav {
