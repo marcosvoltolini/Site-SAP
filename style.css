@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-color: cyan;
 }
@@ -25,9 +24,77 @@ h1{
     
    
 }
-=======
-#nav {
-    height: 20px;
-    margin: 0 5px;
+
+.botao{
+
+    margin-left: 100px;
 }
->>>>>>> b89221ff8880998711259f7ed0bbb43065082765
+
+
+#status{
+
+    margin-left: 100px;
+}
+
+#lista{
+
+    margin-left: 100px;
+}
+
+#coisinhas{
+
+    margin-left: 100px;
+}
+
+#lapis{
+    border: 3px solid white;
+    background-color: white;
+    width: 100px;
+    text-align: center;
+}
+
+#borda{
+
+    border: 3px solid white;
+}
+
+#imagens{
+
+    display: flex;
+    gap: 20px;
+}
+
+#bordamain{
+border: 5px solid white;
+    background-color: darkgrey;
+    display: flex;
+
+}
+
+#msg{
+
+    margin-left: 200px;
+}
+
+#Jao{
+    width: 400px;
+    margin-left: 200px;
+    border: 2px solid black;
+}
+
+#Jose{
+    width: 400px;
+    margin-left: 200px;
+    display: flex;
+    border: 2px solid black;
+}
+
+#botao2{
+    margin-left: 200px;
+    display: flex;
+}
+
+#botao{
+    margin-left: 200px;
+    display: flex;
+}
