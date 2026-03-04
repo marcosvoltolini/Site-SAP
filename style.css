@@ -1,4 +1,23 @@
+<<<<<<< HEAD
+body{
+    background-color: cyan;
+}
+
+#tamanho{
+    width: 200px;
+}
+
+
+h1{
+
+    text-align: left;
+}
+#robo {
+    border: 5px solid white;
+    background-color: darkgrey;
+=======
 .nav {
+>>>>>>> b32cf3d26c163a9b5725c7847446c0141322c443
     display: flex;
     flex-direction: column;
 
@@ -15,10 +34,84 @@
 
 }
 
+<<<<<<< HEAD
+.botao{
+
+    margin-left: 100px;
+}
+
+
+#status{
+
+    margin-left: 100px;
+}
+
+#lista{
+
+    margin-left: 100px;
+}
+
+#coisinhas{
+
+    margin-left: 100px;
+}
+
+#lapis{
+    border: 3px solid white;
+    background-color: white;
+    width: 100px;
+    text-align: center;
+}
+
+#borda{
+
+    border: 3px solid white;
+}
+
+#imagens{
+
+    display: flex;
+    gap: 20px;
+}
+
+#bordamain{
+border: 5px solid white;
+    background-color: darkgrey;
+    display: flex;
+
+}
+
+#msg{
+
+    margin-left: 200px;
+}
+
+#Jao{
+    width: 400px;
+    margin-left: 200px;
+    border: 2px solid black;
+}
+
+#Jose{
+    width: 400px;
+    margin-left: 200px;
+    display: flex;
+    border: 2px solid black;
+}
+
+#botao2{
+    margin-left: 200px;
+    display: flex;
+}
+
+#botao{
+    margin-left: 200px;
+=======
 
 #navimg {
     height: 20px;
     margin: 0 5px;
+>>>>>>> b32cf3d26c163a9b5725c7847446c0141322c443
     display: flex;
 }
 .ngv {
