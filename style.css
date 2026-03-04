@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-color: cyan;
 }
@@ -15,9 +14,9 @@ h1{
 #robo {
     border: 5px solid white;
     background-color: darkgrey;
-=======
+ }
+
 .nav {
->>>>>>> b32cf3d26c163a9b5725c7847446c0141322c443
     display: flex;
     flex-direction: column;
 
@@ -31,7 +30,6 @@ h1{
 
 }
 
-<<<<<<< HEAD
 .botao{
 
     margin-left: 100px;
@@ -103,11 +101,10 @@ border: 5px solid white;
 
 #botao{
     margin-left: 200px;
-=======
+}
 
 #navimg {
     height: 20px;
     margin: 0 5px;
->>>>>>> b32cf3d26c163a9b5725c7847446c0141322c443
     display: flex;
 }
