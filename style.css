@@ -1,3 +1,5 @@
+/*RA-RAMON*/
+
 body{
     background-color: cyan;
 }
@@ -14,20 +16,15 @@ h1{
 #robo {
     border: 5px solid white;
     background-color: darkgrey;
+    display: flex;
 }
 
-.nav {
-    display: flex;
-    flex-direction: column;
-
-}
-
-.menu {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap: 0;
-
+#texto1{
+     padding: 10px;
+    
+   
+    
+   
 }
 
 .botao{
@@ -101,16 +98,53 @@ border: 5px solid white;
 
 #botao{
     margin-left: 200px;
+    display: flex;
+}
 
+/*MA-MARCOS*/
+
+.nav {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 0;
     border: 5px solid rgb(126, 125, 125);
     border-radius: 15px;
     background-color: rgb(158, 157, 157);
 
 }
 
-
 #navimg {
     height: 20px;
     margin: 0 5px;
     display: flex;
+}
+.ngv {
+    display: flex;
+    margin: 10px;
+    gap: 20px;
+    align-items:center;
+}
+table{
+    border: 2px solid rgb(165, 165, 165);
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px solid rgb(165, 165, 165);
+}
+th,
+tr {
+    padding: 8px;
+    border: 2px solid rgb(165, 165, 165);
+    align-items: left;
+}
+.linha {
+    background-color: lightblue;
 }
