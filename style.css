@@ -1,6 +1,6 @@
 /*RA-RAMON*/
 .body-ramon{
-    background-color: cyan;
+    background-color: rgb(255, 255, 255);
 }
 
 #tamanho{
@@ -14,7 +14,7 @@ h1{
 }
 #robo {
     border: 5px solid white;
-    background-color: darkgrey;
+    background-color: rgb(53, 141, 201);
     display: flex;
 }
 
@@ -67,7 +67,7 @@ h1{
 
 #bordamain{
 border: 5px solid white;
-    background-color: darkgrey;
+    background-color: rgb(53, 141, 201);
     display: flex;
 
 }
@@ -104,7 +104,16 @@ border: 5px solid white;
 
     display: flex;
     flex-direction: column;
+    gap: 16px;
 }
+
+#ult{
+
+    display: flex;
+}
+
+
+
 
 /*MA-MARCOS*/
 
