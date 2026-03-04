@@ -1,33 +1,20 @@
-<<<<<<< HEAD
-body{
-    background-color: cyan;
-}
-
-#tamanho{
-    width: 200px;
-}
-
-
-h1{
-
-    text-align: left;
-}
-#robo {
-    border: 5px solid white;
-    background-color: darkgrey;
+.nav {
     display: flex;
+    flex-direction: column;
+
 }
 
-#texto1{
-     padding: 10px;
-    
-   
-    
-   
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 0;
+
 }
-=======
-#nav {
+
+
+#navimg {
     height: 20px;
     margin: 0 5px;
+    display: flex;
 }
->>>>>>> b89221ff8880998711259f7ed0bbb43065082765
