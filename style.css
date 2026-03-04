@@ -1,106 +1,107 @@
 /*RA-RAMON*/
-.body-ramon{
+.body-ramon {
     background-color: cyan;
 }
 
-#tamanho{
+#tamanho {
     width: 200px;
 }
 
 
-h1{
+h1 {
 
     text-align: left;
 }
+
 #robo {
     border: 5px solid white;
     background-color: darkgrey;
     display: flex;
 }
 
-#texto1{
-     padding: 10px;
-    
-   
-    
-   
+#texto1 {
+    padding: 10px;
+
+
+
+
 }
 
-.botao{
+.botao {
 
     margin-left: 100px;
 }
 
 
-#status{
+#status {
 
     margin-left: 100px;
 }
 
-#lista{
+#lista {
 
     margin-left: 100px;
 }
 
-#coisinhas{
+#coisinhas {
 
     margin-left: 100px;
 }
 
-#lapis{
+#lapis {
     border: 3px solid white;
     background-color: white;
     width: 100px;
     text-align: center;
 }
 
-#borda{
+#borda {
 
     border: 3px solid white;
 }
 
-#imagens{
+#imagens {
 
     display: flex;
     gap: 20px;
 }
 
-#bordamain{
-border: 5px solid white;
+#bordamain {
+    border: 5px solid white;
     background-color: darkgrey;
     display: flex;
 
 }
 
-#msg{
+#msg {
 
     margin-left: 200px;
 }
 
-#Jao{
+#Jao {
     width: 400px;
     margin-left: 200px;
     border: 2px solid black;
 }
 
-#Jose{
+#Jose {
     width: 400px;
     margin-left: 200px;
     display: flex;
     border: 2px solid black;
 }
 
-#botao2{
+#botao2 {
     margin-left: 200px;
     display: flex;
 }
 
-#botao{
+#botao {
     margin-left: 200px;
     display: flex;
 }
 
-.botaoruim{
+.botaoruim {
 
     display: flex;
     flex-direction: column;
@@ -124,6 +125,7 @@ border: 5px solid white;
     background-color: rgb(158, 157, 157);
 
 }
+
 .menu_tabela {
     display: flex;
     align-items: center;
@@ -134,7 +136,8 @@ border: 5px solid white;
     padding: 4px;
     width: 307px;
 }
-#ul{
+
+#ul {
     margin: 0px;
     padding: 3px;
 }
@@ -144,26 +147,62 @@ border: 5px solid white;
     margin: 0 5px;
     display: flex;
 }
+
+
 .ngv {
     display: flex;
     margin: 10px;
     gap: 20px;
-    align-items:center;
+    align-items: center;
 }
-table{
+
+table {
     border: 2px solid rgb(165, 165, 165);
     border-collapse: collapse;
+    align-items: center;
+    text-align: center;
 }
 
 td {
     border: 2px solid rgb(165, 165, 165);
 }
+
 th,
 tr {
     padding: 8px;
     border: 2px solid rgb(165, 165, 165);
     align-items: left;
 }
+
 .linha {
     background-color: lightblue;
 }
+
+.overview {
+    justify-content: center;
+    text-align: center;
+    margin: 50px;
+}
+#titulo_over {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items:baseline;
+}
+
+.nav_over_atri {
+    display: flex;
+}
+
+.menu_over {
+    display: flex;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 2px solid rgb(126, 125, 125);
+    background-color: rgb(158, 157, 157);
+}
+#table_vrd {
+    height: 20px;
+}
+
