@@ -14,7 +14,7 @@ h1{
 #robo {
     border: 5px solid white;
     background-color: darkgrey;
- }
+}
 
 .nav {
     display: flex;
@@ -101,7 +101,13 @@ border: 5px solid white;
 
 #botao{
     margin-left: 200px;
+
+    border: 5px solid rgb(126, 125, 125);
+    border-radius: 15px;
+    background-color: rgb(158, 157, 157);
+
 }
+
 
 #navimg {
     height: 20px;
