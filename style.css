@@ -124,6 +124,20 @@ border: 5px solid white;
     background-color: rgb(158, 157, 157);
 
 }
+.menu_tabela {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 2px solid rgb(126, 125, 125);
+    background-color: rgb(158, 157, 157);
+    height: 32px;
+    padding: 4px;
+    width: 307px;
+}
+#ul{
+    margin: 0px;
+    padding: 3px;
+}
 
 #navimg {
     height: 20px;
